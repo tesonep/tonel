@@ -10,3 +10,6 @@ smalltalk:
   - Pharo-6.0
   - Pharo-6.1
   - Pharo-7.0
+  - Pharo(64)-7.0
+  - Squeak-5.1
+  - GemStone-3.3.x
